@@ -2,6 +2,8 @@
 
 Automacao dos cenarios da [Verzel Store](https://verzel-store.qa-test-verzel-store.workers.dev/), com base na [documentacao da loja](https://verzel-store.qa-test-verzel-store.workers.dev/documentacao).
 
+O PDF **Casos de Testes**, disponível neste repositório, reúne os casos de teste, a execução e os bugs encontrados.
+
 | ID | Arquivo | Tipo |
 | --- | --- | --- |
 | CT-CUPOM-04 | `tests/ct-cupom-04.spec.ts` | UI |
