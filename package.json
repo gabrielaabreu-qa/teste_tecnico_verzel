@@ -1,0 +1,14 @@
+{
+  "name": "verzel-store-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testes Playwright da Verzel Store (cupom, frete e API do carrinho)",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
